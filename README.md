@@ -47,11 +47,6 @@ The game also has a small aim-assist feature that helps you aim near the target.
 2. Open **index.html** in your browser  
 3. The game will start automatically  
 
----
 
-##  Simple Description (2–3 lines)
-This is a small FPS mini-game where you aim and shoot moving targets.  
-The crosshair follows your mouse, and the game helps you with light aim-assist.  
-Your score is counted, and the game ends after 60 seconds.
 
 
